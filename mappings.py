@@ -1,0 +1,8 @@
+letter_s = '5'
+letter_t = '7'
+letter_a = '4'
+letter_e = '3'
+letter_g = '6'
+letter_i = '1'
+letter_o = '0'
+letter_b = '8'
